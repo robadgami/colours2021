@@ -1,4 +1,5 @@
 Github course 2021
-- teal
-Added some more changes here
-abc
+Hello, this is an updated version of the initial document.
+This was made during a Git and GitHub training course.
+
+:)
